@@ -1,0 +1,31 @@
+--- TASK 1: DYNAMIC ARRAY ---
+[Resize]: 2 -> 4
+[Resize]: 4 -> 8
+[Resize]: 8 -> 16
+Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] (Size: 10, Cap: 16)
+Popped: [10, 9, 8]
+
+--- TASK 2A: SINGLY LINKED LIST ---
+After inserts:
+3 -> 3
+After deleting 3:
+3
+
+--- TASK 2B: DOUBLY LINKED LIST ---
+After insert 25 after 20:
+10 <-> 20 <-> 25 <-> 30
+After deleting position 1 (20):
+10 <-> 25 <-> 30
+After deleting last position:
+10 <-> 25
+
+--- TASK 3: STACK & QUEUE ---
+Stack Pop: B | Peek: A
+Queue Dequeue: X | Next: Y
+Queue Front: Z
+
+--- TASK 4: BALANCED PARENTHESES ---
+'([])' -> True
+'([)]' -> False
+'(((' -> False
+'' -> True
