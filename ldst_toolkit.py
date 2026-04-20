@@ -1,16 +1,9 @@
 #Assignment 2
 #LDST Toolkit
-
-
-'''Name of the School: School of Engineering & Technology
-Program (Class / Semester / Batch): B.Tech CSE (AI & ML) , 2nd semester, 2025-29
-Course Title: Data Structures
-Course Code: ETCCDS202
-Unit Number: 2
-Unit Title: Linear Data Structures
-Student Name: SWATI SINGH
-Roll No: 2501730269
-Section: A'''
+#Name: Samarth Sharma
+#Course: Btech CSE (AI ML) Section - A
+#Semester: 2nd
+#Roll No: 2501730279
 
 
 
